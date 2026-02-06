@@ -24,8 +24,6 @@ Service Discovery (Eureka)
   +--> User Service
   |
   +--> Product Service
-  |
-  +--> Order Service
 ```
 
 ---
